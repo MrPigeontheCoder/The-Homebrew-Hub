@@ -1,2 +1,3 @@
 ~~This is the Windows 96 version. It does NOT work in Windows 93. Go to the Windows 93 folder for that.~~
-Since Windows96 appears to be down, i'm no longer working on this. Do whatever you want, however.
+~~Since Windows96 appears to be down, i'm no longer working on this. Do whatever you want, however.~~
+UPDATE: Windows 96 now has a new version. However, i'm not motivated enough to work on this. Feel free to complete this project...
